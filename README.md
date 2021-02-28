@@ -1,19 +1,3 @@
-# Progetto-Sistemi-Operativi-UNITN-2020
-Progetto per il corso universitario di Sistemi Operativi, consistente in un analizzatore di file di testo (implementato in C), che utilizza le principali funzioni di creazione e comunicazione di processi.
-
-
-
-README:
-
-LabSO1-AA_2019_2020--193540_201757_202531_213924
-
-| Nome         | Cognome  | Email                                 | Matricola |
-| ------------ | -------- | ------------------------------------- | --------- |
-| Simone       | Cantini  | simone.cantini@studenti.unitn.it      | 201757    |
-| Michelangelo | Kanaan   | michelangelo.kanaan@studenti.unitn.it | 193540    |
-| Daniele      | Marcolan | daniele.marcolan@studenti.unitn.it    | 213924    |
-| Luca         | Vian     | luca.vian@studenti.unitn.it           | 202531    |
-
 IMPLEMENTAZIONE
 
 L’applicazione è compresa da 3 processi: Main, Analyzer e Report.
