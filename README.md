@@ -1,4 +1,5 @@
-#Progetto-Sistemi-Operativi-UNITN-2020
+(Unfortunately only available in italian for the moment)
+
 Progetto per il corso di Sistemi Operativi, consistente in un analizzatore di file di testo (implementato in C), che utilizza le principali funzioni di creazione e comunicazione di processi.
 
 IMPLEMENTAZIONE
